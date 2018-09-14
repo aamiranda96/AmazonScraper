@@ -1,0 +1,4 @@
+- manual adding of url
+- manual adding of filename
+- will infinite loop until either no next page or error on loading the page
+- cannot scrap some pages of amazon
